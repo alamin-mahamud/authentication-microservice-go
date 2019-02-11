@@ -1,0 +1,6 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
+github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/wuriyanto48/ecommerce-grpc-microservice v0.0.0-20180306140410-bdc125c30193 h1:VC9HmQ7pHlMGkE9UDcX69MN8DYGCvX4UVpqJ89NDDOQ=
+github.com/wuriyanto48/ecommerce-grpc-microservice v0.0.0-20180306140410-bdc125c30193/go.mod h1:qyFes1dIRqiRsYFYArilzFUZyunMgac5A/U4ZOpMk7Q=
