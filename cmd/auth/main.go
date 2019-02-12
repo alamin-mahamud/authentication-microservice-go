@@ -4,9 +4,8 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/alamin-mahamud/authentication-microservice-go/config"
 	"github.com/alamin-mahamud/authentication-microservice-go/pkg/router"
-
-	"github.com/wuriyanto48/ecommerce-grpc-microservice/auth/config"
 )
 
 func main() {
