@@ -1,1 +1,16 @@
+.idea/
 .vscode/
+vendor/
+
+# Temporary
+*~
+
+coverage.txt
+coverages/*.txt
+.DS_Store
+
+.env
+
+# Binary Files
+auth-osx
+main
