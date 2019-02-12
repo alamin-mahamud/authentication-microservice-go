@@ -12,5 +12,4 @@ coverages/*.txt
 .env
 
 # Binary Files
-auth-osx
-main
+auth
